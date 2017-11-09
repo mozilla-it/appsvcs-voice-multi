@@ -1,3 +1,5 @@
 ---
 voice:
   repo: "https://github.com/mozilla/voice-web.git"
+hypercored:
+  repo: "https://github.com/gozer/hypercored.git"
